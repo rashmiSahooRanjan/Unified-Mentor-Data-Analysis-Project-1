@@ -1,0 +1,3 @@
+Algorithm,Number of Clusters,Silhouette Score
+K-Means,2,0.13446342454859114
+Hierarchical Clustering,2,0.10852222949846431

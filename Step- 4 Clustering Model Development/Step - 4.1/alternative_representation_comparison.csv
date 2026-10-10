@@ -1,0 +1,10 @@
+Representation,K,Silhouette Score,Smallest Cluster Size
+Original 80 features,2,0.13446342454859114,774
+Original 80 features,3,0.12062482900853123,567
+Original 80 features,4,0.10462532201019127,394
+Categorical block-weighted,2,0.23109713331013274,774
+Categorical block-weighted,3,0.22209082387581486,575
+Categorical block-weighted,4,0.2087442691325761,387
+Without region features,2,0.1573092000220848,942
+Without region features,3,0.148296988454168,568
+Without region features,4,0.13194735152659176,392

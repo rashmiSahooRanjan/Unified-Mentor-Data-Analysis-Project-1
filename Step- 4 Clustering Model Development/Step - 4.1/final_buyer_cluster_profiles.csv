@@ -1,0 +1,3 @@
+cluster,customer_count,average_age,median_age,average_satisfaction,home_purpose_pct,investment_purpose_pct,individual_pct,company_pct,loan_applicant_pct,female_pct,male_pct
+0,969,38.8,39.0,3.02,66.67,33.33,92.57,7.43,39.01,49.43,50.57
+1,1031,68.48,68.0,3.03,71.68,28.32,96.99,3.01,34.72,49.37,50.63

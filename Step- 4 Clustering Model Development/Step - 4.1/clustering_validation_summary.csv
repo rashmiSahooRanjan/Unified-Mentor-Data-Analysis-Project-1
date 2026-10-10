@@ -1,0 +1,2 @@
+customer_count,feature_count,original_kmeans_clusters,saved_model_feature_count,saved_model_ari,preprocessing_max_difference,preprocessing_matches
+2000,80,2,80,1.0,4.440892098500626e-16,True

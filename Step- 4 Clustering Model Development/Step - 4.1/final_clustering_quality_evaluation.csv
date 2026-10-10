@@ -1,0 +1,2 @@
+Algorithm,Number_of_Clusters,Silhouette_Score,Davies_Bouldin_Index,Calinski_Harabasz_Score
+Weighted K-Means,2,0.3012,1.2913,1168.6032
