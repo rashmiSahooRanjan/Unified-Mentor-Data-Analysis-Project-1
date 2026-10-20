@@ -28,6 +28,12 @@ python -m venv .venv
 pip install -r requirements.txt
 streamlit run app.py
 ```
+## 👨‍💻 Authors
+
+| Name                          | Role      |
+| ----------------------------- | --------- |
+| **Rashmi Ranjan Sahoo** | Developer |
+
 
 ## Deploy on Streamlit Community Cloud
 
