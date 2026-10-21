@@ -1,6 +1,18 @@
 # Real Estate Buyer Segmentation & Investment Profiling
 
-Streamlit dashboard for the project brief “Machine Learning Based Buyer Segmentation and Investment Profiling for Real Estate Market Intelligence” (Unified Mentor / Parcl Co. Limited).
+Developed a Machine Learning–based Real Estate Buyer Segmentation and Investment Profiling dashboard to analyze customer behavior and identify distinct buyer segments in the real estate market. The project uses a weighted K-Means clustering approach to group buyers based on available demographic, geographic, acquisition-purpose, and loan-related features. An interactive Streamlit dashboard presents cluster distributions, buyer behavior patterns, geographic comparisons, descriptive statistics, and customer-level insights. It also supports filtered customer exploration and CSV export to facilitate data-driven market analysis. The clustering model achieved a silhouette score of 0.3012, providing an initial measure of cluster separation. The project demonstrates how machine learning and interactive data visualization can support real estate market intelligence while acknowledging the limitations of the available data.
+
+## Key Project Highlights
+
+- **Machine Learning**: Applied weighted K-Means clustering with K=2 to segment real estate buyers.
+- **Buyer Segmentation**: Analyzed 2,000 buyers across two clusters.
+- **Behavioral Analysis**: Examined acquisition purpose, loan application patterns, and referral channels.
+- **Interactive Dashboard**: Developed a Streamlit dashboard with dynamic charts, filters, and segment-level insights.
+- **Geographic Analysis*: Compared buyer segments across available countries and regions.
+- **Customer Explorer**: Enabled filtered customer record viewing and CSV export.
+- **Model Evaluation**: Assessed clustering using Silhouette Score, Davies–Bouldin Index, and Calinski–Harabasz Index.
+- **Data-Driven Insights**: Generated descriptive buyer profiles to support real estate market analysis.
+- **Responsible ML**: Distinguished descriptive customer segments from unverified assumptions about wealth or investment profitability.
 
 ## Dashboard
 
